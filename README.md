@@ -30,12 +30,4 @@ Users can enter the desired password length and instantly generate a strong, ran
 
 👉 [Click here to view](https://ankitdevworks.github.io/Password-Generator-Using-HTML-CSS-JS/) (GitHub Pages)
 
----
-
-## 📸 Preview
-
-<https://github.com/user-attachments/assets/92d97ffc-e017-4c83-854f-2106e56d7624/>
-
----
-
 ## 📁 Folder Structure
